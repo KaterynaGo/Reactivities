@@ -47,3 +47,5 @@ C:\ReactCore\Reactivities\API\obj\Debug\netcoreapp3.0\API.RazorTargetAssemblyInf
 C:\ReactCore\Reactivities\API\obj\Debug\netcoreapp3.0\API.csproj.CopyComplete
 C:\ReactCore\Reactivities\API\obj\Debug\netcoreapp3.0\API.dll
 C:\ReactCore\Reactivities\API\obj\Debug\netcoreapp3.0\API.pdb
+C:\ReactCore\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.dll
+C:\ReactCore\Reactivities\API\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
